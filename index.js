@@ -29,6 +29,5 @@ function divide(a,b){
   return a / b
 }
 
-function parseInt(2, 10){
 
 
